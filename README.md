@@ -7,3 +7,5 @@ XSLT transformations laboratory works.
   * [Code](https://github.com/yuniyakim/XSLT-transformations/tree/main/Task%201)
 
 2. Task 2
+  * [Preview](https://yuniyakim.github.io/XSLT-transformations/Task%202/svg.xml)
+  * [Code](https://github.com/yuniyakim/XSLT-transformations/tree/main/Task%202)
